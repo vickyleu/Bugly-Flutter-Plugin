@@ -4,12 +4,14 @@
 
 
 .idea/*
+pubspec.lock
 
 .packages
 .pub/
 
 build/
 
+**flutter_export_environment.sh
 
 *.apk
 *.ap_
