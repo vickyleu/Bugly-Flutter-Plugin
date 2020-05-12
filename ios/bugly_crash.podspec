@@ -17,6 +17,6 @@ bugly crash plugin
   s.dependency 'Flutter'
   s.dependency 'Bugly'
   s.static_framework = true
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 end
 
